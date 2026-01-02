@@ -1,4 +1,3 @@
-# 💫 About Me:
 - Computer engineer with 3 years of experience in Fullstack development. 
 - I speak English, Spanish and German. 
 - Contact workwith.mauriciopernia@gmail.com
